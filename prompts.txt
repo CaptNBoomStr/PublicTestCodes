@@ -1,0 +1,7 @@
+
+can you improve this script? 
+the sections "Hold & Retention", Forwarding,Storage Metrics,Folder Analysis are empty on the HTML output
+in the Basic Information section, add if archive is enabled, auto expanding is enabled. How many total mailboxes exist example: Primary, Primary Archive, Auxiliary mailboxes
+add Inbox Rules Analysis
+in Permissions & Delegates along with Total Delegates, Full Access,Send As,Send on Behalf, it should also include Folder Permissions if it finds any like example Inobx,Contacts, calendar etc etc
+add a section of Security Overview based on intelligent analysis, giving score to different security aspects of mailbox
